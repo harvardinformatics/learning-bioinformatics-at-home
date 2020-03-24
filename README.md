@@ -16,7 +16,7 @@ resources for learning bioinformatics
   - [Intermediate](#intermediate-2)
   - [Advanced](#advanced-2)
 - [Statistics](#statistics)
-
+- [Miscellaneous](#miscellaneous)
 
 ### Unix
 
@@ -62,3 +62,6 @@ resources for learning bioinformatics
 
 ### Statistics
 
+### Miscellaneous
+
+* [A Primer for Computational Biology](https://open.oregonstate.education/computationalbiology/) A nice book.
