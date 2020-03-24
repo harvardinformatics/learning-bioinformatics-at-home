@@ -47,6 +47,7 @@ resources for learning bioinformatics
 * [R for data science](https://r4ds.had.co.nz/)
 
 #### Advanced
+* [Advanced R](https://adv-r.hadley.nz/) by Hadely.
 * [Bioconductor courses and conferences](https://www.bioconductor.org/help/course-materials/)
 
 ### Python
