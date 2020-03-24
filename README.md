@@ -8,17 +8,15 @@ resources for learning bioinformatics
   - [Intermediate](#intermediate)
   - [Advanced](#advanced)
 - [R](#r)
-    - [Introduction](#introduction)
-    - [Intermediate](#intermediate)
-    - [Advanced](#advanced)
+  - [Introduction](#introduction-1)
+  - [Intermediate](#intermediate-1)
+  - [Advanced](#advanced-1)
 - [Python](#python)
-  - [Introduction](#introduction)
-  - [Intermediate](#intermediate)
-  - [Advanced](#advanced)
+  - [Introduction](#introduction-2)
+  - [Intermediate](#intermediate-2)
+  - [Advanced](#advanced-2)
 - [Statistics](#statistics)
-  - [Introduction](#introduction)
-  - [Intermediate](#intermediate)
-  - [Advanced](#advanced)
+
 
 ### Unix
 
