@@ -66,7 +66,7 @@ resources for learning bioinformatics
 
 ### Git and version control
 
-* [git intro by github](https://github.github.io/on-demand/)
+* [github learning lab](https://lab.github.com/)
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 * [Happy Git and GitHub for the useR](http://happygitwithr.com/) A book by Jenny Bryan.
 * [learn git branching](http://learngitbranching.js.org/)
