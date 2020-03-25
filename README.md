@@ -84,3 +84,5 @@ resources for learning bioinformatics
 ### Miscellaneous
 
 * [A Primer for Computational Biology](https://open.oregonstate.education/computationalbiology/) A nice book.
+* [gcp-for-bioinformatics](https://github.com/lynnlangit/gcp-for-bioinformatics) a repo with patterns for using the public cloud for bioinformatics, uses GCP, but patterns can be applied to other public cloud vendors, i.e. AWS, Azure....
+
