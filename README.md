@@ -16,6 +16,7 @@ resources for learning bioinformatics
   - [Intermediate](#intermediate-2)
   - [Advanced](#advanced-2)
 - [Statistics](#statistics)
+- [Git and version control](#git-and-version-control)
 - [Miscellaneous](#miscellaneous)
 
 ### Unix
@@ -62,6 +63,23 @@ resources for learning bioinformatics
 #### Advanced
 
 ### Statistics
+
+### Git and version control
+
+* [git intro by github](https://github.github.io/on-demand/)
+* [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+* [Happy Git and GitHub for the useR](http://happygitwithr.com/) A book by Jenny Bryan.
+* [learn git branching](http://learngitbranching.js.org/)
+* [A Git Workflow Walkthrough Series](http://vallandingham.me/git-workflow.html)
+* [paper:A Quick Introduction to Version Control with Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
+* [paper:Ten Simple Rules for Taking Advantage of Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004947)
+* [software carpentry git novice lesson](http://swcarpentry.github.io/git-novice/)
+* [git best practise](https://sethrobertson.github.io/GitBestPractices/)
+* [git-hub cheatsheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
+* [oh shit git!](http://ohshitgit.com/) Git is hard: screwing up is easy, and figuring out how to fix your mistakes is fucking impossible. Git documentation has this chicken and egg problem where you can't search for how to get yourself out of a mess, unless you already know the name of the thing you need to know about in order to fix your problem.
+* [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+* [A guide for astronauts (now, programmers using Git) about what to do when things go wrong: git flight rules](https://github.com/k88hudson/git-flight-rules)
+* An opinionated intermediate/advanced Git book: [git in practise](https://github.com/GitInPractice/GitInPractice#readme)
 
 ### Miscellaneous
 
