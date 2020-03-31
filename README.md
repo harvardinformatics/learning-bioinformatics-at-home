@@ -52,6 +52,7 @@ Some resources gathered by the [Harvard Informatics group](https://informatics.f
 
 #### Intermediate
 * [R for data science](https://r4ds.had.co.nz/): by Hadley Wickham, developer of Tidyverse and many other things
+* [Checkio](https://py.checkio.org/): Python coding game, great for practice!
 
 #### Advanced
 * [Advanced R](https://adv-r.hadley.nz/): Advanced course by Hadley Wickham
