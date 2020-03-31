@@ -36,16 +36,13 @@ Some resources gathered by the [Harvard Informatics group](https://informatics.f
 * [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [Better Bash Scripting in 15 Minutes](http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html?m=1)
 * [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls)
+* Process Substitution
+    - [Using Names Pipes and Process Substitution in Bioinformatics](http://vincebuffalo.org/blog/2013/08/08/using-names-pipes-and-process-substitution-in-bioinformatics.html)
+    - [Handy Bash feature: Process Substitution](https://medium.com/@joewalnes/handy-bash-feature-process-substitution-8eb6dce68133#.uz5pj9yer)
 
-##### Process Substitution
-
-* [Using Names Pipes and Process Substitution in Bioinformatics](http://vincebuffalo.org/blog/2013/08/08/using-names-pipes-and-process-substitution-in-bioinformatics.html)
-- [Handy Bash feature: Process Substitution](https://medium.com/@joewalnes/handy-bash-feature-process-substitution-8eb6dce68133#.uz5pj9yer)
-
-##### One-Liners for Bioinformatics
-
-* [From Steven Turner](https://github.com/stephenturner/oneliners)
-* [From Ming (Tommy) Tang](https://github.com/crazyhottommy/bioinformatics-one-liners)
+* One-Liners for Bioinformatics
+    - [From Steven Turner](https://github.com/stephenturner/oneliners)
+    - [From Ming (Tommy) Tang](https://github.com/crazyhottommy/bioinformatics-one-liners)
 
 ### R
 
@@ -87,13 +84,13 @@ Some resources gathered by the [Harvard Informatics group](https://informatics.f
 * [git-hub cheatsheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
 * [git in practise](https://github.com/GitInPractice/GitInPractice#readme): An opinionated intermediate/advanced Git book
 
-##### Fixing Problems
+* Fixing Problems
 
 Git is hard: screwing up is easy, and figuring out how to fix your mistakes is impossible. Git documentation has this chicken and egg problem where you can't search for how to get yourself out of a mess, unless you already know the name of the thing you need to know about in order to fix your problem. Here are resources to help figure out what to do when things go wrong.
 
-* [oh shit git!](http://ohshitgit.com/)
-* [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
-* [A guide for astronauts (now, programmers using Git) about what to do when things go wrong: git flight rules](https://github.com/k88hudson/git-flight-rules)
+    - [oh shit git!](http://ohshitgit.com/)
+    - [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+    - A guide for astronauts (now, programmers using Git) about what to do when things go wrong: git flight rules](https://github.com/k88hudson/git-flight-rules)
 
 ### RNA-seq
 
