@@ -107,4 +107,5 @@ Some resources gathered by the [Harvard Informatics group](https://informatics.f
 ### Miscellaneous
 
 * [A Primer for Computational Biology](https://open.oregonstate.education/computationalbiology/) A nice book.
+* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/): Claus Wilke's book on data visualization, covers principles and figure design.
 * [gcp-for-bioinformatics](https://github.com/lynnlangit/gcp-for-bioinformatics) a repo with patterns for using the public cloud for bioinformatics, uses GCP, but patterns can be applied to other public cloud vendors, i.e. AWS, Azure....
