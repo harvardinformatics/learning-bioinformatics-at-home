@@ -70,6 +70,8 @@ Some resources gathered by the [Harvard Informatics group](https://informatics.f
 
 ### Statistics
 
+* [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/index.html): Book by Susan Holmes and Wolfgang Huber
+
 ### Git and version control
 
 * [github learning lab](https://lab.github.com/)
