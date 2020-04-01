@@ -18,6 +18,10 @@ Some resources gathered by the [Harvard Informatics group](https://informatics.f
   - [Advanced](#advanced-2)
 - [Statistics](#statistics)
 - [Git and version control](#git-and-version-control)
+- [RNA-seq](#rna-seq)
+- [Single-cell Analysis](#single-cell-analysis)
+- [Read mapping](#read-mapping)
+- [Variant calling](#variant-calling)
 - [Miscellaneous](#miscellaneous)
 
 ### Unix
