@@ -31,6 +31,7 @@ Some resources gathered by the [Harvard Informatics group](https://informatics.f
 * [Greg Wilson's YouTube videos on the Unix shell](https://www.youtube.com/watch?v=U3iNcBtycaQ)
 * [Introduction to the Command Line for Genomics](https://datacarpentry.org/shell-genomics/)
 * [A short introduction to grep](https://informatics.fas.harvard.edu/short-introduction-to-grep.html)
+* [Lockdown Learning - Bioinformatics](https://www.youtube.com/playlist?list=PLzfP3sCXUnxEu5S9oXni1zmc1sjYmT1L9): Daily livestreamed bioinformatics lessons, assuming no prior experience. 
 
 #### Intermediate
 * [Advanced Beginner/Intermediate Shell](https://github.com/ngs-docs/2016-adv-begin-shell-genomics)
