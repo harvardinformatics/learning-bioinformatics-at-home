@@ -109,6 +109,8 @@ Some resources gathered by the [Harvard Informatics group](https://informatics.f
 
 ### Variant calling
 
+* [Harvard Informatics fastq to VCF](https://informatics.fas.harvard.edu/whole-genome-resquencing-for-population-genomics-fastq-to-vcf.html). Targeted for non-model organisms.
+
 ### Miscellaneous
 
 * [Understanding snakemake](https://vincebuffalo.com/blog/2020/03/04/understanding-snakemake.html) An overview from Vince Buffalo, author of Bioinformatics Data Skills
