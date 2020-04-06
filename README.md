@@ -110,6 +110,7 @@ Some resources gathered by the [Harvard Informatics group](https://informatics.f
 ### Variant calling
 
 * [Harvard Informatics fastq to VCF](https://informatics.fas.harvard.edu/whole-genome-resquencing-for-population-genomics-fastq-to-vcf.html). Targeted for non-model organisms.
+* RAD-seq tutorials from dDocent on [Reference Assembly](http://www.ddocent.com/assembly/) and [SNP filtering](http://www.ddocent.com/filtering/)
 
 ### Miscellaneous
 
