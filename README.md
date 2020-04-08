@@ -109,6 +109,9 @@ Some resources gathered by the [Harvard Informatics group](https://informatics.f
 
 ### Variant calling
 
+* [dDocent reference assembly & SNP filtering tutorials](http://www.ddocent.com/)
+
+
 ### Miscellaneous
 
 * [Understanding snakemake](https://vincebuffalo.com/blog/2020/03/04/understanding-snakemake.html) An overview from Vince Buffalo, author of Bioinformatics Data Skills
