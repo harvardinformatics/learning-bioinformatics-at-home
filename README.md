@@ -56,10 +56,12 @@ Some resources gathered by the [Harvard Informatics group](https://informatics.f
 * [Introduction to Computational Biology](https://biodatascience.github.io/compbio/): Tutorial by Mike Love, the author of DESeq2 and other R packages
 
 #### Intermediate
+* [Introduction to Bioconductor](https://www.edx.org/course/introduction-to-bioconductor-annotation-and-analys): The structure, annotation, normalization, and interpretation of genome scale assays (free edX course)
 * [R for data science](https://r4ds.had.co.nz/): by Hadley Wickham, developer of Tidyverse and many other things
-* [Checkio](https://py.checkio.org/): Python coding game, great for practice!
+
 
 #### Advanced
+* [Advanced Bioconductor](https://www.edx.org/course/advanced-bioconductor): Learn advanced approaches to genomic visualization, reproducible analysis, data architecture, and exploration of cloud-scale consortium-generated genomic data (free edX course)
 * [Advanced R](https://adv-r.hadley.nz/): Advanced course by Hadley Wickham
 * [Bioconductor courses and conferences](https://www.bioconductor.org/help/course-materials/): Overview of Bioconductor training resources
 
@@ -71,6 +73,7 @@ Some resources gathered by the [Harvard Informatics group](https://informatics.f
 
 #### Intermediate
 * [Intermediate Python](https://github.com/yasoob/intermediatePython)
+* [Checkio](https://py.checkio.org/): Python coding game, great for practice!
 
 #### Advanced
 
